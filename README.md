@@ -17,5 +17,4 @@ We collected the dataset from our own microservices system. It is a shopping mic
 
 ```bash
 python action_one.py
-python ML_benchmark.py 
 ```
